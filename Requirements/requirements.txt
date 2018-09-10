@@ -1,0 +1,5 @@
+Tools, frameworks and libraries required to reproduce the work flow
+
+1. Anaconda Navigator
+2. jupyter notebook
+3. Ms- Excel 2016
